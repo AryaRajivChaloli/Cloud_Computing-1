@@ -50,6 +50,6 @@ This will set up everything in the necessary instances
 ```bash
 Tanvi P Karennavar
 Bhavya Charan
-Arya Rajiv
-Aditi Manohar
+Arya Rajiv Chaloli
+Aditi M Manohar
 ```
