@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+ users:
+   container_name: users
+   build: ./users
+   image: users:latest
+   expose:
+    - 80
+   ports:
+    - 80:80
+  

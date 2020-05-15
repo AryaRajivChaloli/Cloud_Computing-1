@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+sqlalchemy 
+requests
+pika
+flask
+uuid
+kazoo
+docker

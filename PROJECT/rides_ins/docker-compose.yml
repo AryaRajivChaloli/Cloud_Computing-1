@@ -1,0 +1,12 @@
+version: '2.0'
+services:
+ rides:
+   container_name: rides
+   build: ./rides
+   image: rides:latest
+   expose:
+    - 80
+   ports:
+    - 80:80
+
+
